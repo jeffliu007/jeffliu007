@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **completing a full-stack bootcamp at App Academy**
 
-- 🌱 I’m currently learning **Javascript, ReactJS, SQL, Express, and Python**
+- 🌱 I’m currently learning **Javascript, ReactJS, SQL, ExpressJS, and Python**
 
 - 📫 How to reach me **jeffreyliu97@gmail.com**
 

@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **completing a full-stack bootcamp at App Academy**
 
-- 🌱 I’m currently learning **Javascript, ReactJS, SQL, ExpressJS, and Python**
+- 🌱 I’m currently learning **Javascript, ReactJS, SQL, ExpressJS, Python, and SQLAlchemy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

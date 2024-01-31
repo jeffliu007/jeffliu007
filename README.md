@@ -3,7 +3,7 @@
 
 <img align="center" alt="Coding-banner" width="1200" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif">
 
-<p> I'm a full-stack software engineer with a major in Marketing and a minor in International Business, currently pursuing Web Development.
+<p> I'm a full-stack software engineer with a major in Marketing and a minor in International Business.
 </p>
 </br>
 
